@@ -1,0 +1,12 @@
+# root ignore
+*.log
+*.jpg
+test.py
+.vscode/*
+__pycache__/*
+
+# face_rec ignore 
+face_rec/data/*
+face_rec/basic.py
+face_rec/vedio_rec.py
+face_rec/__pycache__/*
